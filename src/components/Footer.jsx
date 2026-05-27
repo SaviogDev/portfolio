@@ -26,8 +26,9 @@ export function Footer() {
       items: [
         ['Email', 'mailto:saviog.dev@gmail.com'], 
         ['WhatsApp', 'https://wa.me/5582987335690'], 
-        ['Instagram', 'https://instagram.com'], 
-        ['GitHub', 'https://github.com']
+        ['LinkedIn', 'https://www.linkedin.com/in/saviog-dev/?skipRedirect=true'], 
+        ['Instagram', 'https://www.instagram.com/saviog.dev?igsh=MW1sYzRpeXdhYTlubQ=='], 
+        ['GitHub', 'https://github.com/SaviogDev']
       ] 
     }
   ];
